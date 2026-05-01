@@ -54,16 +54,6 @@ Blender / Photoshop / Premiere Pro
 
 ---
 
-## 🌍 Open For
-
-* 🇦🇺 Australia
-* 🇨🇦 Canada
-* 🇩🇪 Germany
-* 🇸🇬 Singapore
-* 🌐 Remote Global Roles
-
----
-
 ## 📈 Philosophy
 
 > I don’t just write code.
