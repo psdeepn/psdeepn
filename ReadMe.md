@@ -1,5 +1,87 @@
-# 💫 About Me:
-👋 Hey, I'm Sai Deepak<br>🚀 Senior XR Engineer | AI + Immersive Systems Developer<br>I build real-time 3D systems, XR experiences, and AI-powered immersive products that create actual business impact.<br><br>Not demos. Not experiments. Production systems.<br><br>🧠 What I Do<br>🎮 XR / VR / AR Development (Unity, Unreal Engine)<br>🧩 Real-Time 3D Systems & Simulations<br>🤖 AI + XR Integration (GPT workflows, automation)<br>🌐 WebXR & Interactive WebGL Experiences<br>🏬 Immersive Retail & Enterprise Training Systems<br>🏆 Highlights<br>🥇 Gold Award — Tech Mahindra<br>🚀 Delivered 8+ production XR projects across healthcare, retail, and enterprise<br>⚡ Reduced build size from 2GB → 30MB<br>🔥 Reduced revisions from 20–30 → 2–5<br>🧠 Built internal tools that improved team productivity drastically<br>🎯 Delivered full project in 1 week using automation pipelines<br>🧑‍💻 Managed multiple projects simultaneously without delivery issues<br>🛠 Tech Stack<br>Unity / Unreal Engine<br>C# / WebGL<br>XR / VR / AR <br>Meta Quest / SteamVR<br>AI Integration (GPT / Automation)<br>Blender / Photoshop / Premiere Pro<br>🧪 What I'm Building<br>🔮 AI-powered XR systems<br>🧠 Smart training simulations<br>🌍 Interactive 3D web experiences<br>⚙️ Internal automation tools for faster development<br>🌍 Open For<br>🇦🇺 Australia<br>🇨🇦 Canada<br>🇩🇪 Germany<br>🇸🇬 Singapore<br>🌐 Remote Global Roles<br>📈 Philosophy<br>I don’t just write code. I build systems that scale, perform, and deliver real impact.<br><br>🤝 Let's Connect<br>💼 LinkedIn: https://www.linkedin.com/in/psdeepn/<br>🌐 Portfolio: https://psdeepn.github.io/portfolio/<br>📧 Email: psdeepn@outlook.com<br>🔥 Always building. Always improving.
+# 👋 Hey, I'm Sai Deepak
+
+### 🚀 Senior XR Engineer | AI + Immersive Systems Developer
+
+I build **real-time 3D systems, XR experiences, and AI-powered immersive products** that create actual business impact.
+
+Not demos.
+Not experiments.
+**Production systems.**
+
+---
+
+## 🧠 What I Do
+
+* 🎮 XR / VR / AR Development (Unity, Unreal Engine)
+* 🧩 Real-Time 3D Systems & Simulations
+* 🤖 AI + XR Integration (GPT workflows, automation)
+* 🌐 WebXR & Interactive WebGL Experiences
+* 🏬 Immersive Retail & Enterprise Training Systems
+
+---
+
+## 🏆 Highlights
+
+* 🥇 Gold Award — Tech Mahindra
+* 🚀 Delivered 8+ production XR projects across healthcare, retail, and enterprise
+* ⚡ Reduced build size from **2GB → 30MB**
+* 🔥 Reduced revisions from **20–30 → 2–5**
+* 🧠 Built internal tools that improved team productivity drastically
+* 🎯 Delivered full project in **1 week using automation pipelines**
+* 🧑‍💻 Managed **multiple projects simultaneously** without delivery issues
+
+---
+
+## 🛠 Tech Stack
+
+```bash
+Unity / Unreal Engine
+C# / WebGL
+XR / VR / AR 
+Meta Quest / SteamVR
+AI Integration (GPT / Automation)
+Blender / Photoshop / Premiere Pro
+```
+
+---
+
+## 🧪 What I'm Building
+
+* 🔮 AI-powered XR systems
+* 🧠 Smart training simulations
+* 🌍 Interactive 3D web experiences
+* ⚙️ Internal automation tools for faster development
+
+---
+
+## 🌍 Open For
+
+* 🇦🇺 Australia
+* 🇨🇦 Canada
+* 🇩🇪 Germany
+* 🇸🇬 Singapore
+* 🌐 Remote Global Roles
+
+---
+
+## 📈 Philosophy
+
+> I don’t just write code.
+> I build systems that scale, perform, and deliver real impact.
+
+---
+
+## 🤝 Let's Connect
+
+* 💼 LinkedIn: https://www.linkedin.com/in/psdeepn/
+* 🌐 Portfolio: https://psdeepn.github.io/portfolio/
+* 📧 Email: psdeepn@outlook.com
+
+---
+
+🔥 *Always building. Always improving.*
+
+
 
 
 ## 🌐 Socials:
