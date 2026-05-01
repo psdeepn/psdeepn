@@ -1,8 +1,8 @@
 # 👋 Hey, I'm Sai Deepak
 
-### 🚀 Senior XR Engineer | AI + Immersive Systems Developer
+### 🚀 Senior XR Developer | AI
 
-I build **real-time 3D systems, XR experiences, and AI-powered immersive products** that create actual business impact.
+I build **real-time 3D systems, XR experiences, and AI-powered products** that create actual business impact.
 
 Not demos.
 Not experiments.
