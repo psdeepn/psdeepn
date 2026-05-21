@@ -23,12 +23,12 @@ Not experiments.
 ## 🏆 Highlights
 
 * 🥇 Gold Award — Tech Mahindra
-* 🚀 Delivered 8+ production XR projects across healthcare, retail, and enterprise
-* ⚡ Reduced build size from **2GB → 30MB**
-* 🔥 Reduced revisions from **20–30 → 2–5**
+* 🚀 Delivered 20+ production XR projects across healthcare, retail, and enterprise
+* ⚡ Project Optimizations
+* 🔥 Less Revisions > More Impact
 * 🧠 Built internal tools that improved team productivity drastically
 * 🎯 Delivered full project in **1 week using automation pipelines**
-* 🧑‍💻 Managed **multiple projects simultaneously** without delivery issues
+* 🧑‍💻 Managed **multiple projects simultaneously** without any issues
 
 ---
 
