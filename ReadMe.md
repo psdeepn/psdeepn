@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Sai Deepak
 
-### 🚀 Senior XR Engineer
+### 🚀 Senior Designer
 
 I build **real-time 3D systems, XR experiences, and AI-integrated products** that ship to real production environments.
 
