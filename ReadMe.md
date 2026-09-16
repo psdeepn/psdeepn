@@ -1,8 +1,8 @@
 # 👋 Hey, I'm Sai Deepak
 
-### 🚀 Senior XR Developer | AI
+### 🚀 Senior XR Engineer
 
-I build **real-time 3D systems, XR experiences, and AI-powered products** that create actual business impact.
+I build **real-time 3D systems, XR experiences, and AI-integrated products** that ship to real production environments.
 
 Not demos.
 Not experiments.
@@ -12,34 +12,35 @@ Not experiments.
 
 ## 🧠 What I Do
 
-* 🎮 XR / VR / AR Development (Unity, Unreal Engine)
+* 🎮 XR / VR Development (Unity, Meta Quest, OpenXR)
 * 🧩 Real-Time 3D Systems & Simulations
-* 🤖 AI + XR Integration (GPT workflows, automation)
+* 🤖 AI + XR Integration (voice interaction, digital avatars)
 * 🌐 WebXR & Interactive WebGL Experiences
 * 🏬 Immersive Retail & Enterprise Training Systems
+* 🏗️ Digital Twin & BIM-to-Unity Pipelines
 
 ---
 
 ## 🏆 Highlights
 
-* 🥇 Gold Award — Tech Mahindra
-* 🚀 Delivered 20+ production XR projects across healthcare, retail, and enterprise
-* ⚡ Project Optimizations
-* 🔥 Less Revisions > More Impact
-* 🧠 Built internal tools that improved team productivity drastically
-* 🎯 Delivered full project in **1 week using automation pipelines**
-* 🧑‍💻 Managed **multiple projects simultaneously** without any issues
+* 🥇 Gold Award (Highest Tier) — FTSE 100 Healthcare Client × Tech Mahindra, 2024
+* 🥈 Silver Award — FTSE 100 Healthcare Client × Tech Mahindra, 2025
+* 🥉 Bronze Award — FTSE 100 Healthcare Client × Tech Mahindra, 2023
+* 🌟 2x Service Appreciation Award — FTSE 100 Healthcare Client × Tech Mahindra
+* 🚀 80+ projects delivered since 2022, reaching 20+ markets worldwide
+* ⚡ Optimized a WebGL build from ~2GB down to ~30MB
+* 🧠 Built internal Unity Editor tooling reused across the team
+* 🧑‍🏫 Mentored two engineers from zero programming background to production-ready
 
 ---
 
 ## 🛠 Tech Stack
 
 ```bash
-Unity / Unreal Engine
-C# / WebGL
-XR / VR / AR 
-Meta Quest / SteamVR
-AI Integration (GPT / Automation)
+Unity / C#
+WebGL / WebXR / JavaScript
+XR / VR — Meta Quest / OpenXR
+AI Integration (Voice, Digital Avatars)
 Blender / Photoshop / Premiere Pro
 ```
 
@@ -50,13 +51,14 @@ Blender / Photoshop / Premiere Pro
 * 🔮 AI-powered XR systems
 * 🧠 Smart training simulations
 * 🌍 Interactive 3D web experiences
-* ⚙️ Internal automation tools for faster development
+* ⚙️ Internal automation tools
+* 🏗️ Digital twin & BIM pipelines
 
 ---
 
 ## 📈 Philosophy
 
-> I don’t just write code.
+> I don't just write code.
 > I build systems that scale, perform, and deliver real impact.
 
 ---
@@ -71,14 +73,12 @@ Blender / Photoshop / Premiere Pro
 
 🔥 *Always building. Always improving.*
 
-
-
-
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/psdeepn/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:psdeepn@outlook.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/psdeepn/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:psdeepn@outlook.com)
 
 # 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=psdeepn&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=psdeepn&theme=dark&hide_border=false)<br/>
